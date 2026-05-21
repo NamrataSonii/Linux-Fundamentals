@@ -35,3 +35,11 @@ Displays the username of the current logged-in user.
 ```bash
 whoami
 ```
+
+## Screenshot
+
+![Linux Screenshot](2.png)
+
+## Screenshot
+
+![Linux Screenshot](1.png)
