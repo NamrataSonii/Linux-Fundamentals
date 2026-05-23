@@ -10,18 +10,6 @@ This repository is a personal knowledge base where I document everything I learn
 
 ---
 
-## Repository Structure
-
-```
-Linux-Fundamentals/
-├── README.md          <- You are here
-├── Basics.md          <- Linux fundamentals, architecture, shell, and core commands
-├── FileSystem.md      <- Linux file system hierarchy, navigation, and management
-└── TextFiles.md       <- Viewing, editing, and manipulating text files in Linux
-```
-
----
-
 ## What's Covered
 
 ### [Basics.md](./Basics.md)
