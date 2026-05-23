@@ -117,13 +117,3 @@ Linux is the foundation of modern computing infrastructure. It powers:
 For anyone pursuing a career in cybersecurity, DevOps, cloud, or software development, Linux knowledge is essential.
 
 ---
-
-## Contributing
-
-This is a personal learning repository. If you spot an error or want to suggest an improvement, feel free to open an **issue** or submit a **pull request**.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
